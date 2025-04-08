@@ -3,3 +3,6 @@ def multi(x,y):
 
 def div(x,y):
     return x/y
+
+def add(x,y):
+    x+y
